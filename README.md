@@ -5,7 +5,7 @@ Mod for lethal company, that replaces certain sounds in the game with different 
 Download the releases from the *Releases* tab\
 Unzip the .zip file  
 Place in your LethalCompany/BepInEx/plugins folder<br/>
-Done!\
+Done!
 
 ### Installing with Thunderstore...  
 I unfortunately have never used Thunderstore. So, I can't necessarily say how to use it. However, I'm sure it would be easy once the mod is uploaded there!
