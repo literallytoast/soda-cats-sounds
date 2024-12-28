@@ -1,5 +1,5 @@
 # soda-cats-sounds
-Mod for lethal company, that replaces certain sounds in the game with different sounds from the [Soda Cats video](https://youtu.be/RWeHA8CgHbo).
+Mod for lethal company, that replaces baboon hawk screeches, laughs, and other sounds in the game with different sounds from the [Soda Cats video](https://youtu.be/RWeHA8CgHbo).
 
 ## Installation
 Download the releases from the *Releases* tab\
